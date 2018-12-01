@@ -1,0 +1,3 @@
+1. Upload the files to where you want your upload script
+2. Create a database or upload the sql file to an existing database
+3. Update inc/dbconfig.php with your database details
